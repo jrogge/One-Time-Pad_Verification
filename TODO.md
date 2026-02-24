@@ -1,4 +1,4 @@
- * Implement one*time*pad communication in LEAN
+ * Implement one-time-pad communication in LEAN
     * Define keys
     * Define messages
     * write encryption function
